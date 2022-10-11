@@ -104,6 +104,11 @@ fieldset{
   line-height: 20px;
   color: #C1BCCC;
 }
+.input-wrapper label span:hover{
+  color: #887f9b;
+}
+
+
 .input-wrapper input,
 .input-wrapper textarea,
 .input-wrapper select{
